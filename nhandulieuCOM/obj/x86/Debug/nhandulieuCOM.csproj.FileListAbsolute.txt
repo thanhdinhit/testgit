@@ -1,0 +1,9 @@
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\nhandulieuCOM.Form1.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\nhandulieuCOM.Properties.Resources.resources
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\bin\Debug\nhandulieuCOM.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\bin\Debug\nhandulieuCOM.pdb
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\nhandulieuCOM.exe
+C:\Documents and Settings\Admin\Local Settings\Application Data\Temporary Projects\nhandulieuCOM\obj\x86\Debug\nhandulieuCOM.pdb
