@@ -98,6 +98,12 @@ namespace nhandulieuCOM
             textBox1.Text = null;
         }
 
+        private void btnSend_Click(object sender, EventArgs e)
+        {
+            String s = txtSend.Text;
+            serialPort1.Write(s);
+        }
+
 
 
 
